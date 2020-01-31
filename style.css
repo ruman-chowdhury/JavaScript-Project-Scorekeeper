@@ -1,0 +1,21 @@
+body{
+    background-image: url('images/goal.jpg');
+    background-size: cover;
+    opacity: 70%;
+}
+
+.content{
+    text-align: center;
+    margin: auto;
+    margin-top: 2%;
+    color: white;
+}
+
+html{
+    height: 100%;
+}
+
+.winnerColor{
+    color: greenyellow;
+    font-weight: bold;
+}
